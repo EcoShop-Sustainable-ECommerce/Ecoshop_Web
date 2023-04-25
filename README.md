@@ -1,24 +1,31 @@
-# ecoshop
+# Ecoshop
 
-## Project setup
-```
-npm install
-```
+A substainable e-commerce, created with VueJs 3, TailwindCss and Firebase.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## General info
 
-### Compiles and minifies for production
-```
-npm run build
-```
+This project is a full e-commerce app with both frontend and backend designed and developed from scratch.
 
-### Lints and fixes files
-```
-npm run lint
-```
+![FrontEnd](./images/screencapture.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![BackEnd](./images/screencaptureBack.png)
+
+## Technologies
+
+Project is created with:
+
+-   VueJs 3, composition API
+-   Tailwindcss
+-   Firebase
+-   Algolia
+-   chart.js
+
+## Installation
+- Create a firebase account https://firebase.google.com/
+- Create an algolia acount https://www.algolia.com/
+- Rename the .envSample by .env and fill it with your firbase and algolia credentials
+- npm install
+
+## Info
+
+All the product in the app are fake and just for example, if you do a precess order you will not be charged ;)
